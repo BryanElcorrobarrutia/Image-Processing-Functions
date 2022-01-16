@@ -13,5 +13,5 @@ All of these functions are implemented in Python with the following libraries:
 We represent grayscale/RGB images as 2D/3D arrays from NumPy and utilize the many mathematical functions that
 NumPy provides to manipulate the images. 
 
-Code is well documented for purpose of learning. 
+Code is well documented for the purpose of learning. 
 
