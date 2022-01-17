@@ -1,1 +1,1 @@
-print("test")
+t = 12
