@@ -1,3 +1,7 @@
+import cv2
+from skimage import color
+
+
 def read_image(filename):
 	""" Reads the image with the given filename in the current
 	directory and returns the grayscale version of it.

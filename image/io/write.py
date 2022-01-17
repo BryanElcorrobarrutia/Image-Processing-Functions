@@ -1,3 +1,6 @@
+import cv2
+
+
 def save_img(img, filename):
 	""" Saves the given grayscale image to the given filename in the
 	current directory.
